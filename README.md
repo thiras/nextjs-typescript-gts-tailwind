@@ -1,6 +1,6 @@
-# Next.js + Typescript + Google gts + TailwindCSS
+# Next.js + Typescript + gts + TailwindCSS
 
-This is a boilerplate project that combines [Next.js](https://nextjs.org/), Typescript, [Google gts](https://github.com/google/gts), and [TailwindCSS](https://tailwindcss.com/).
+This is a boilerplate project that combines [Next.js](https://nextjs.org/), TypeScript, [gts](https://github.com/google/gts), [TailwindCSS](https://tailwindcss.com/), and (optionally) [husky](https://typicode.github.io/husky/#/).
 
 ## Deploy your own
 
