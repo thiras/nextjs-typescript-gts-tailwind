@@ -1,6 +1,6 @@
 {
   "name": "nextjs-typescript-gts-tailwind",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "dev": "NODE_OPTIONS='--inspect' next dev",
     "build": "next build",
